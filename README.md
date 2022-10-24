@@ -1,6 +1,6 @@
 # mental-health-assistant
 
-#### Hello, this is "M.H.A-V1.0.1", a simple mental health assistant.
+#### Hello, this is "M.H.A-V1.0.1", a simple mental health assistant. Add to task scheduler
 
 #### Created for anyone in reconstruction, following a burnout or other hard blow in life.
 #### Based on the principle that our doubts are over but that we can fall very low in our self-esteem during this short period,
