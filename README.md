@@ -3,7 +3,7 @@
 #### Hello, this is "M.H.A-V1.0.1", a simple mental health assistant. Add to task scheduler
 
 #### Created for anyone in reconstruction, following a burnout or other hard blow in life.
-#### Based on the principle that our doubts are over but that we can fall very low in our self-esteem during this short period,
+#### Based on the principle that our doubts are fleeting but that we can drop very low in our self-esteem during this short period,
 #### it is necessary to set up tools and new habits must be put in place quickly before locking oneself into a vegetative state.
 #### This is not the ideal tool but a trial under development.
 #### If you want to participate in its evolution, I invite you to create a commit, or share your ideas and advice with me in the comments. For to build a relevant tool together. Thanks
